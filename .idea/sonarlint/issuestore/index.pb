@@ -1,0 +1,21 @@
+
+I
+src/MainExpenseClass.java,6\4\6400be09b861dba5a5f8e680b06f4d882436d22c
+J
+src/model/ExpenseType.java,0\6\0632821e4de00d5a911f795f43c38c83f1f464a4
+F
+src/model/Expense.java,a\c\ac98d8026a71c25a013778819c89d0a0e7fb8ef5
+P
+ src/service/PercentageSplit.java,0\e\0e2d872cf88ef223bef9d18e59996cd8e1762b1b
+F
+src/service/Split.java,b\3\b3d0be10d37b4274afcba4946bdf9577ca9989db
+O
+src/service/BalanceDisplay.java,e\8\e850fb143cd4b454cbb7709edb0bc2cc214739fd
+K
+src/service/ExactSplit.java,4\2\4206956a2254875f287fa2d4935af7b7630d62c6
+O
+src/service/EqualSplitImpl.java,a\8\a83fb27637acd0f77760252393a11e004a7b9ae7
+C
+src/model/User.java,9\3\930b2c1d08ecb8339873c37ba0b6957548b40e4c
+P
+ src/service/SplitManagement.java,9\9\9968422fcca09039b786d2ebb94fb6193e298004
